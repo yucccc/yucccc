@@ -8,6 +8,5 @@ I like rust, and I am learning rust systematically
 **社交平台**  
 
 - [掘金](https://juejin.cn/user/2313028194020072)
-- [简书](https://www.jianshu.com/u/a03c0c4f5c88)
 
 
